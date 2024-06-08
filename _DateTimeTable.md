@@ -1,14 +1,14 @@
 # Unit #
-Name | Short | Long      | Value
------|-------|-----------|--------
-年   |       | Year(s)   | 1970 ~ 9999
-季   |       | Season(s) | Month * 3
-月   |       | Month(s)  | 01 ~ 12
-週   |       | Week(s)   | Day * 7
-日   |       | Day(s)    | 01 ~ 31
-時   |       | Hour(s)   | 00 ~ 24
-分   | min   | Minute(s) | 00 ~ 59
-秒   | sec   | Second(s) | 00 ~ 59
+Name | Short | Long       | Value
+-----|-------|------------|--------
+年   |       | Year(s)    | 1970 ~ 9999
+季   |       | Quarter(s) | Month * 3
+月   |       | Month(s)   | 01 ~ 12
+週   |       | Week(s)    | Day * 7
+日   |       | Day(s)     | 01 ~ 31
+時   |       | Hour(s)    | 00 ~ 24
+分   | min   | Minute(s)  | 00 ~ 59
+秒   | sec   | Second(s)  | 00 ~ 59
 
 # Month #
 Name   | Short | Long      | Value
