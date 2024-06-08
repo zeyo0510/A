@@ -1,10 +1,10 @@
 ((name) => {
-  globalThis.A             = globalThis.A             || {};
-  globalThis.A.Mathematics = globalThis.A.Mathematics || {};
+  globalThis.A               = globalThis.A               || {};
+  globalThis.A._Mathematics_ = globalThis.A._Mathematics_ || {};
   /************************************************/
-  globalThis.A.Mathematics.Parity = class $
+  globalThis.A._Mathematics_._Parity_ = class $
   {
-    #__name__ = name;
+    #_name_ = name;
     /************************************************/
     static IsEven()
     {
