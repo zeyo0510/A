@@ -6,7 +6,7 @@
   {
     #_name_ = name;
     /************************************************/
-    static Addition()
+    static _Addition_()
     {
       let retValue = undefined;
       /************************************************/
@@ -28,7 +28,7 @@
       return retValue;
     }
     /************************************************/
-    static Subtraction()
+    static _Subtraction_()
     {
       let retValue = undefined;
       /************************************************/
@@ -50,7 +50,7 @@
       return retValue;
     }
     /************************************************/
-    static Multiplication()
+    static _Multiplication_()
     {
       let retValue = undefined;
       /************************************************/
@@ -72,7 +72,7 @@
       return retValue;
     }
     /************************************************/
-    static Division()
+    static _Division_()
     {
       let retValue = undefined;
       /************************************************/

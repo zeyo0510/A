@@ -6,7 +6,7 @@
   {
     #_name_ = name;
     /************************************************/
-    static Maximum()
+    static _Maximum_()
     {
       let retValue = undefined;
       /************************************************/
@@ -28,7 +28,7 @@
       return retValue;
     }
     /************************************************/
-    static Minimum()
+    static _Minimum_()
     {
       let retValue = undefined;
       /************************************************/
