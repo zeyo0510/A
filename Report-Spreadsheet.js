@@ -2,11 +2,11 @@
   globalThis.A          = globalThis.A          || {};
   globalThis.A._Report_ = globalThis.A._Report_ || {};
   /************************************************/
-  globalThis.A._Report_._Slide_ = class $
+  globalThis.A._Report_._Spreadsheet_ = class $
   {
     constructor()
     {
 
     }
   }
-})('Report-Slide');
+})('Report-Spreadsheet');
