@@ -2,7 +2,10 @@
 Name | Short | Long       | Value
 -----|-------|------------|--------
 年   |       | Year(s)    | 1970 ~ 9999
-季   |       | Quarter(s) | Month * 3
+季   |       | Quarter(s) | Q1(一月~三月)
+季   |       | Quarter(s) | Q2(四月~六月)
+季   |       | Quarter(s) | Q3(七月~九月)
+季   |       | Quarter(s) | Q4(十月~十二月)
 月   |       | Month(s)   | 01 ~ 12
 週   |       | Week(s)    | Day * 7
 日   |       | Day(s)     | 01 ~ 31
