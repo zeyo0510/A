@@ -13,7 +13,7 @@ Name | Short | Long       | Value
 分   | min   | Minute(s)  | 00 ~ 59
 秒   | sec   | Second(s)  | 00 ~ 59
 
-# Month #
+# Month & Day #
 Name   | Short | Long      | Value
 -------|-------|-----------|---
 　一月 | Jan   | January   | 01
@@ -28,6 +28,13 @@ Name   | Short | Long      | Value
 　十月 | Oct   | October   | 10
 十一月 | Nov   | November  | 11
 十二月 | Dec   | December  | 12
+星期一 | Mon   | Monday    |
+星期二 | Tue   | Tuesday   |
+星期三 | Wed   | Wednesday |
+星期四 | Thu   | Thursday  |
+星期五 | Fri   | Friday    |
+星期六 | Sat   | Saturday  |
+星期日 | Sun   | Sunday    |
 
 # Obsolete #
 Name         | Short | Long
