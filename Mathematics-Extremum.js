@@ -1,10 +1,10 @@
 ((name) => {
-  globalThis.A             = globalThis.A             || {};
-  globalThis.A.Mathematics = globalThis.A.Mathematics || {};
+  globalThis.A               = globalThis.A               || {};
+  globalThis.A._Mathematics_ = globalThis.A._Mathematics_ || {};
   /************************************************/
-  globalThis.A.Mathematics.Extremum = class $
+  globalThis.A._Mathematics_._Extremum_ = class $
   {
-    #__name__ = name;
+    #_name_ = name;
     /************************************************/
     static Maximum()
     {
